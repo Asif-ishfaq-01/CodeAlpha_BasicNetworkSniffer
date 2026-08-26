@@ -72,7 +72,7 @@ Before running the project, make sure the following are installed:
 ### 1. Clone the repository
 
 ```bash
-git clone <YOUR_GITHUB_REPOSITORY_URL>
+git clone https://github.com/Asif-ishfaq-01/CodeAlpha_BasicNetworkSniffer.git
 
 Then enter the project directory:
 
@@ -98,7 +98,7 @@ The interface name is configured in sniffer.py.
 
 Example:
 
-INTERFACE = "Realtek RTL8852BE WiFi 6 802.11ax PCIe Adapter"
+INTERFACE = "Wifi"
 
 The interface name may be different on another computer.
 
