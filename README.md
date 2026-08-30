@@ -2,7 +2,7 @@
 
 A Python-based network packet sniffer developed using **Scapy** for capturing, analyzing, filtering, and summarizing network traffic.
 
-The project was developed as part of the **TechBiz Security Internship** and demonstrates practical concepts of network monitoring, packet analysis, protocol identification, DNS/DHCP analysis, payload inspection, traffic filtering, and PCAP file generation.
+The project was developed as part of the **Code Alpha Internship** and demonstrates practical concepts of network monitoring, packet analysis, protocol identification, DNS/DHCP analysis, payload inspection, traffic filtering, and PCAP file generation.
 
 
 
@@ -70,7 +70,7 @@ Before running the project, make sure the following are installed:
 ##  Installation
 
 ### 1. Clone the repository
-        git clone <YOUR_GITHUB_REPOSITORY_URL>
+       git clone https://github.com/Asif-ishfaq-01/CodeAlpha_BasicNetworkSniffer.git
 
 Then enter the project directory:
 
@@ -98,7 +98,7 @@ Then enter the project directory:
 
         Example:
 
-        INTERFACE = "Realtek RTL8852BE WiFi 6 802.11ax PCIe Adapter"
+        INTERFACE = ""YOUR_NETWORK_INTERFACE""
 
         The interface name may be different on another computer.
 
